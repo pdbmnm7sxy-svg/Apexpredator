@@ -439,3 +439,12 @@ Apexpredator/
 ---
 
 *MedLens — Built for the Healthcare & MedTech Hackathon Track and to benefit mankind.*
+
+
+## Render deployment
+
+Deploy `render.yaml` as a Blueprint, or create a **Node Web Service** with the repository root left blank. Build command: `npm ci --include=dev && npm run build`. Start command: `npm run start --workspace=server`. Health check: `/api/status`. Set `NODE_ENV=production`. The backend serves the built frontend and `/api` from the same public URL. This is not a static-site-only deployment.
+
+Add `GEMINI_API_KEY` only through Render environment variables; never commit its value. Optionally set `GEMINI_MODEL`. Without a key, basic reference comparisons remain available but live agent analysis does not. Existing Gemini quota limits may still prevent agent responses.
+
+This hackathon prototype is for synthetic reports only. Its report history is currently shared server memory, not an authenticated private patient record system. Do not upload real patient data to a public demo. Do not configure a real patient database for this deployment.

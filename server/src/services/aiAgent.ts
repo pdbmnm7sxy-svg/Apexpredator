@@ -328,7 +328,7 @@ export async function runAiAnalysisAgent(
       console.log(
         `🤖 Agent Turn ${turnCount}: Received response from Gemini. Tools requested: ${
           functionCalls && functionCalls.length > 0
-            ? functionCalls.map((fc) => fc.name).join(', ')
+            ? functionCalls.map((fc: { name?: string; args?: Record<string, unknown>; id?: string }) => fc.name).join(', ')
             : 'None (Final Output)'
         }`
       );
@@ -379,7 +379,7 @@ export async function runAiAnalysisAgent(
       } else {
         chatContents.push({
           role: 'model',
-          parts: functionCalls.map((fc) => ({
+          parts: functionCalls.map((fc: { name?: string; args?: Record<string, unknown>; id?: string }) => ({
             functionCall: {
               name: fc.name,
               args: fc.args,

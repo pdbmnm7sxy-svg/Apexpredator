@@ -230,6 +230,11 @@ apiRouter.post('/analyze', async (req: Request, res: Response) => {
       reportDate
     );
 
+    const reportId = existingReportId || `rep-${Date.now()}-${Math.floor(Math.random() * 1000)}`;
+
+    // Check if report already exists in store
+    const existing = await getReport(reportId);
+
     const activeContext = patientContext || existing?.patientContext || {};
     const costAwareGuidance = evaluateCostAwareGuidance(
       findings,
@@ -237,10 +242,6 @@ apiRouter.post('/analyze', async (req: Request, res: Response) => {
       activeContext
     );
 
-    const reportId = existingReportId || `rep-${Date.now()}-${Math.floor(Math.random() * 1000)}`;
-
-    // Check if report already exists in store
-    const existing = await getReport(reportId);
     const result: ReportAnalysisResult = {
       reportId,
       fileName: fileName || existing?.fileName || 'User Report',

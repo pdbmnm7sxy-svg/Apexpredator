@@ -1,0 +1,21 @@
+METROPOLITAN CLINICAL LABORATORIES
+Patient Name: John Doe          Age: 38 Yrs     Gender: Male
+Date of Collection: 2024-05-15  Report ID: MCL-84920
+Physician: Dr. Sarah Vance, MD
+
+COMPLETE BLOOD COUNT & METABOLIC PROFILE (FASTING)
+-----------------------------------------------------------------------------------
+TEST NAME                      RESULT      UNIT         REFERENCE RANGE
+-----------------------------------------------------------------------------------
+Hemoglobin                     14.8        g/dL         13.5 - 17.5
+White Blood Cell Count (WBC)   6,800       /uL          4,000 - 11,000
+Platelet Count                 245,000     /uL          150,000 - 450,000
+Fasting Blood Glucose          88          mg/dL        70 - 99
+Serum Creatinine               0.95        mg/dL        0.7 - 1.3
+Total Cholesterol              172         mg/dL        < 200
+LDL Cholesterol                92          mg/dL        < 100
+HDL Cholesterol                52          mg/dL        > 40
+Triglycerides                  118         mg/dL        < 150
+Blood Pressure                 118/76      mmHg         90-120 / 60-80
+-----------------------------------------------------------------------------------
+End of Laboratory Report.

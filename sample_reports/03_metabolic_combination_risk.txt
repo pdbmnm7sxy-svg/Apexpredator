@@ -1,0 +1,21 @@
+CITY HEALTH LABS & CARDIOLOGY CLINIC
+Patient Name: Robert Miller     Age: 52 Yrs     Sex: Male
+Report Date: 2024-07-22         Specimen ID: CHL-77412
+Referring Physician: Dr. K. Gomez, MD
+
+LIPID & DIABETIC RISK ASSESSMENT
+-----------------------------------------------------------------------------------
+PARAMETER                      VALUE       UNIT         REFERENCE
+-----------------------------------------------------------------------------------
+Fasting Blood Glucose          158         mg/dL        70 - 99
+Triglycerides                  285         mg/dL        < 150
+Total Cholesterol              248         mg/dL        < 200
+LDL Cholesterol                152         mg/dL        < 100
+HDL Cholesterol                36          mg/dL        > 40
+Serum Creatinine               1.1         mg/dL        0.7 - 1.3
+Blood Pressure                 146/92      mmHg         < 120 / 80
+Hemoglobin                     15.1        g/dL         13.5 - 17.5
+WBC Count                      8,100       /uL          4,000 - 11,000
+Platelet Count                 270,000     /uL          150,000 - 450,000
+-----------------------------------------------------------------------------------
+Conclusion: Combined metabolic and cardiovascular lipid dysregulation.

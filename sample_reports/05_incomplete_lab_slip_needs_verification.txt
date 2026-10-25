@@ -1,0 +1,14 @@
+SUBURBAN OUTPATIENT WALK-IN CLINIC
+Patient: Thomas Wright         Age: 49 Yrs     Gender: Male
+Date: 2024-09-01               Slip: SWC-3382
+
+QUICK CHEM PANEL (PARTIAL COPY)
+-----------------------------------------------------------------------------------
+Hemoglobin                     14.0        g/dL         13.5 - 17.5
+Serum Creatinine               1.8                      [Unit missing on printout]
+Total Cholesterol              210         mg/dL
+Fasting Blood Sugar            95          mg/dL        70 - 99
+Blood Pressure                 124/82      mmHg
+Platelets                      < 50        10^3/uL      150 - 450
+-----------------------------------------------------------------------------------
+Note: Lab printer ribbon fading; check manual requisition for missing units.

@@ -1,0 +1,21 @@
+APEX DIAGNOSTIC HEALTH CENTER
+Patient Name: Jane Smith        Age: 44 Yrs     Gender: Female
+Date of Collection: 2024-06-10  Report ID: ADH-11029
+Ref By: Dr. R. Patel
+
+PREVENTIVE HEALTH SCREENING
+-----------------------------------------------------------------------------------
+INVESTIGATION                  OBSERVED    UNITS        REFERENCE INTERVAL
+-----------------------------------------------------------------------------------
+Hemoglobin                     13.2        g/dL         12.0 - 15.5
+W.B.C Count                    7,200       /uL          4,000 - 11,000
+Platelets                      220,000     /uL          150,000 - 450,000
+Fasting Blood Sugar            118         mg/dL        70 - 99
+Serum Creatinine               0.82        mg/dL        0.5 - 1.1
+Total Cholesterol              185         mg/dL        < 200
+LDL Cholesterol                94          mg/dL        < 100
+HDL Cholesterol                58          mg/dL        > 40
+Triglycerides                  125         mg/dL        < 150
+Blood Pressure                 120/78      mmHg         90-120 / 60-80
+-----------------------------------------------------------------------------------
+Remarks: Isolated prediabetic glucose elevation detected.

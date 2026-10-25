@@ -1,0 +1,17 @@
+ST. JUDE REGIONAL MEDICAL CENTER
+Patient: Clara Oswald          Age: 61 Yrs     Sex: Female
+Collection Date: 2024-08-04    Accession: SJR-90214
+Department: Hematology & Oncology
+
+COMPLETE HEMATOLOGY EVALUATION
+-----------------------------------------------------------------------------------
+ANALYTE                        VALUE       UNITS        BIOLOGICAL REFERENCE
+-----------------------------------------------------------------------------------
+Hemoglobin                     8.4         g/dL         12.0 - 15.5
+Platelet Count                 68,000      /uL          150,000 - 450,000
+White Blood Cell Count         4,400       /uL          4,000 - 11,000
+Serum Creatinine               0.9         mg/dL        0.5 - 1.1
+Random Blood Glucose           105         mg/dL        70 - 139
+Blood Pressure                 114/72      mmHg         90-120 / 60-80
+-----------------------------------------------------------------------------------
+Clinical note: Multi-lineage cytopenia. Peripheral smear review advised.

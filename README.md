@@ -438,4 +438,4 @@ Apexpredator/
 
 ---
 
-*MedLens — Built for the Healthcare & MedTech Hackathon Track.*
+*MedLens — Built for the Healthcare & MedTech Hackathon Track and to benefit mankind.*
